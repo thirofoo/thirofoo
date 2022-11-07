@@ -7,7 +7,6 @@
 
 ### Analysis
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirofoo&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=thirofoo&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thirofoo&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirofoo&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
