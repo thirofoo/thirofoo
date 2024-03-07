@@ -8,8 +8,8 @@
 ### Analysis
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thirofoo&theme=tokyonight&layout=default&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thirofoo&theme=transparent&layout=default&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirofoo&layout=compact&theme=tokyonight&exclude_repo=atcoder-archives" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirofoo&layout=compact&theme=transparent&exclude_repo=atcoder-archives" />
 </a>
