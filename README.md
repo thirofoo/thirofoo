@@ -4,6 +4,7 @@
 
 [![through](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fthrough&style=for-the-badge)](https://atcoder.jp/users/through)
 [![CodeForces](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fthrough&style=for-the-badge)](https://codeforces.com/profile/through)
+[![Likes](https://badgen.org/img/zenn/through/likes?style=for-the-badge)](https://zenn.dev/through)
 
 ### Analysis
 
