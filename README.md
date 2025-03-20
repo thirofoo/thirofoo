@@ -17,7 +17,7 @@
 
 ### Other Links 🔗
 [![Likes](https://badgen.org/img/zenn/through/likes?style=for-the-badge)](https://zenn.dev/through)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Contributor-blue?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/through)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-purple?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/through)
 
 ### Analysis 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
