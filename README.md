@@ -9,14 +9,9 @@
 [![AtCoder Rating (Heuristic)](https://badgen.org/img/atcoder/through/rating/heuristic?style=for-the-badge&label=heuristic)](https://atcoder.jp/users/through?contestType=heuristic)
 [![CodeForces](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fthrough&style=for-the-badge)](https://codeforces.com/profile/through)
 
-#### ICPC Achievements 🏆
-- ICPC 2022: ``Maximum-2oo2`` Prelim **179th**
-- ICPC 2023: ``Maximum-executive`` Prelim **71st**
-- ICPC 2024: ``executive is deprived`` Prelim **31st**, Yokohama Regional **47th**
-
 ### Other Links 🔗
 [![Website](https://img.shields.io/website?label=thirofoo.com&style=for-the-badge&url=https%3A%2F%2Fthirofoo.com)](https://thirofoo.com)
 [![Likes](https://badgen.org/img/zenn/through/likes?style=for-the-badge)](https://zenn.dev/through)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-purple?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/through)
 
-<sup>Last Update: 2025-03-22</sup>
+<sup>Last Update: 2026-04-14</sup>
